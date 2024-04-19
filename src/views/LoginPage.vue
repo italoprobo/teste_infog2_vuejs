@@ -79,7 +79,7 @@ async function login() {
     align-items: center;
     height: 100vh;
     width: 45vw;
-    background: url("../../../assets/login-content-footer.png");
+    background: url("../assets/login-content-footer.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

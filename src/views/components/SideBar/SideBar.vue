@@ -30,7 +30,7 @@ export default {
                 </a>
         </div>
         <div class="logo">
-            <img src="../../../../assets/logo1.png" alt="ola">
+            <img src="../../assets/logo1.png" alt="ola">
         </div>
     </div>
 </template>
