@@ -65,7 +65,7 @@ async function login() {
 .img-section{
     display: flex;
     width: 55vw;
-    background: url("../../../assets/login-img.png");
+    background: url("../assets/login-img.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
